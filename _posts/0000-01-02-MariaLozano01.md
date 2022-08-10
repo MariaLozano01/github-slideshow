@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your Text
+*Insert gif from The Office*
 
 Use the left arrow to go back!
